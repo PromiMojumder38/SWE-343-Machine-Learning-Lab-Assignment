@@ -13,3 +13,5 @@
 * [**Task 2 - Linear Regression**](https://github.com/PromiMojumder38/SWE-343-Machine-Learning-Lab-Assignment/blob/main/Task%202%20-%20Linear%20Regression/Linear%20Regression%20with%20Gradient%20Descent.ipynb)
   
 * [**Task 3 - Logistic Regression**](https://github.com/PromiMojumder38/SWE-343-Machine-Learning-Lab-Assignment/blob/main/Task%203%20-%20Logistic%20Regression/Logistic%20Regression%20with%20Gradient%20Descent.ipynb)
+
+* [**Task 4 - Gradient Descent and Contour Plot**](https://github.com/PromiMojumder38/SWE-343-Machine-Learning-Lab-Assignment/blob/main/Task%204%20-%20Gradient%20Descent/Gradient%20Descent%20and%20Contour%20Plot.ipynb)
